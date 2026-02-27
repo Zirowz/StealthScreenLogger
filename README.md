@@ -29,6 +29,6 @@
 Ce projet est **uniquement** déstiné à des fins éducatives. L'utilisation sans le consentement d'un utilisateur est **illégale**
 
 Développé avec ❤️ par Zirowz
-*Pour tout bugs, merci de me contacter via discord : ZirowzSurMc*
+*Pour tout bugs, merci de me contacter via discord : Zirowz*
 
 ![Description de l'image](https://raw.githubusercontent.com/UTILISATEUR/REPO/main/images/5BE6561F-0AF1-4D24-86F6-9436724FBCB8.png)
