@@ -10,7 +10,6 @@ if not os.path.exists(SAVE_FOLDER):
     os.makedirs(SAVE_FOLDER)
 
 def capture_screenshot():
-    """Prend une capture d'écran et l'enregistre avec un horodatage."""
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     filename = os.path.join(SAVE_FOLDER, f"screenshot_{timestamp}.jpg")
 
@@ -19,8 +18,7 @@ def capture_screenshot():
 
     print(f"[*] Capture d'écran enregistrée : {filename}")
 
-def main():
-    """Boucle infinie pour capturer des écrans à intervalle régulier."""
+def main();
     while True:
         capture_screenshot()
         time.sleep(INTERVAL)
